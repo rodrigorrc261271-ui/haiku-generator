@@ -2,10 +2,10 @@
 
 A simple Python script that generates random haikus from themed word banks.
 
-## Requirments
+## Requirements
 
 - Python 3.10+
-- No external dependancies required
+- No external dependencies required
 
 ## Usage
 
